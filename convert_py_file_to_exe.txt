@@ -1,0 +1,6 @@
+goto
+C:\Users\shawon\AppData\Local\Programs\Python\Python37-32\Scripts
+
+and run autopytoexe.exe
+
+and select python file 
